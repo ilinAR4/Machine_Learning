@@ -74,8 +74,8 @@ physical_therapy_classifier/
 
 ### 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/physical_therapy_classifier
-cd physical_therapy_classifier
+git clone https://github.com/ilinAR4/Machine_Learning
+cd Machine_Learning
 ```
 
 ### 2. Установите зависимости:
