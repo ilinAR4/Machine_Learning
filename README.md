@@ -364,7 +364,7 @@ streamlit-reveal-slides==1.0.1  # Презентации
 ## Контакты
 
 **Автор проекта:** [Александр]  
-- GitHub: [ https://github.com/ilinAR4/predictive_maintenance_project ]
+- GitHub: [ https://github.com/ilinAR4/Machine_Learning ]
 - Email: [ khabir-ex@mail.ru ]
 
 
