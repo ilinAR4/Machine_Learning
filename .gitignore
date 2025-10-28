@@ -42,11 +42,7 @@ venv.bak/
 .ipynb_checkpoints
 
 # Data files (большие файлы)
-*.csv
-*.xlsx
-*.data
-*.zip
-*.tar.gz
+
 
 # Models
 *.pkl
