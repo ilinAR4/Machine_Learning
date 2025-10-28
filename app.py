@@ -33,7 +33,6 @@ with st.sidebar:
     **Датасет:** UCI Physical Therapy Exercises  
     **Упражнений:** 8  
     **Датчики:** Акселерометр, Гироскоп, Магнитометр  
-    **Частота:** 25 Hz
     """)
     
     st.markdown("---")
